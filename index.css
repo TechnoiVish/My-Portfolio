@@ -95,7 +95,7 @@ color: #fff;
   text-align: -moz-center;
  text-align: center;
 }
-@media  (max-width: 1270px) {
+@media  (max-width: 100vh) {
   #pic{
 margin-top: 65vh;
   text-align: center;
