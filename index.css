@@ -108,7 +108,7 @@ font-size: 12px;
  background-position: center;
 }
 #pic{
- text-align:-moz-center;
+ text-align:-webkit-center;
 }
 .navbar-toggler i{
   color: black;
